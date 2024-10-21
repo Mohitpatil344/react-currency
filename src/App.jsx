@@ -18,7 +18,7 @@ function App() {
       <button onClick={() => setCurrentPost(1)}>Post 1</button>
       <button onClick={() => setCurrentPost(2)}>Post 2</button>
       <button onClick={() => setCurrentPost(3)}>Post 3</button>
-      <h1>mohit patil</h1>
+
       <div style={{ marginTop: '20px' }}>
         <h2>Post Details</h2>
         <p><strong>Title:</strong> {finalData?.title}</p>
