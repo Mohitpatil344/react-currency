@@ -24,6 +24,7 @@ function App() {
         <p><strong>Title:</strong> {finalData?.title}</p>
         <p><strong>Body:</strong> {finalData?.body}</p>
       </div>
+      <h1>mohit patil</h1>
     </div>
   );
 }
